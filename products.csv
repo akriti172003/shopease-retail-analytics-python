@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price,unit_cost
+301,Product_301,Books,1326.67,752.79
+302,Product_302,Books,2257.6,1176.55
+303,Product_303,Electronics,4451.42,1867.23
+304,Product_304,Home & Kitchen,1824.42,868.74
+305,Product_305,Sports,873.81,414.24
+306,Product_306,Fashion,1974.6,1202.32
+307,Product_307,Books,4562.09,2799.67
+308,Product_308,Electronics,1579.02,701.76
+309,Product_309,Electronics,3344.14,2338.63
+310,Product_310,Sports,302.45,145.19
+311,Product_311,Books,1957.07,1356.22
+312,Product_312,Home & Kitchen,1732.47,906.62
+313,Product_313,Books,1073.88,440.2
+314,Product_314,Sports,2810.22,1415.01
+315,Product_315,Sports,2578.7,1522.22
+316,Product_316,Books,3554.45,2147.64
+317,Product_317,Sports,1566.24,875.97
+318,Product_318,Books,1447.39,773.39
+319,Product_319,Fashion,1090.97,617.34
+320,Product_320,Books,1328.19,767.44
