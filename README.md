@@ -40,8 +40,8 @@ Overall Profit Margin    : 40.8%
 
 | File | Description |
 |---|---|
-| `Day2_Learn_python_using_AI.ipynb` | Full analysis notebook, step-by-step |
-| `main.py` | Script version of the same analysis |
+| `practice.ipynb` | Full analysis notebook, step-by-step |
+| `untitled.py` | Script version of the same analysis |
 | `orders.csv` | Order-level transaction data |
 | `products.csv` | Product catalog with pricing and cost |
 | `customers.csv` | Customer demographic and signup data |
