@@ -1,0 +1,56 @@
+AI-READY BUSINESS INSIGHTS
+=================================================================
+
+BUSINESS INSIGHTS
+-----------------------------------------------------------------
+1. Overall, the business generated ₹5,937,777.89 in net revenue from 1,000 transactions, with total profit of ₹2,407,536.59 and an overall profit margin of 40.55%.
+
+2. The Books category generated the highest total revenue among all product categories.
+
+3. The discount level associated with the highest total profit was 0%, generating approximately ₹1,148,684.72 in profit.
+
+4. The 20% discount group generated approximately ₹245,146.04 in profit, making it the lowest-profit discount group.
+
+5. 57 transactions exceeded the statistical high-value threshold of ₹15,397.75 and may require additional transaction-level review.
+
+
+BUSINESS RECOMMENDATIONS
+-----------------------------------------------------------------
+1. Prioritize lower discount levels where possible, as higher discounts are associated with weaker profitability in the historical dataset.
+
+2. Review unusually high-value transactions using the risk-scoring framework before approving exceptional orders or promotions.
+
+3. Focus growth initiatives on the Books category while monitoring whether additional sales volume translates into incremental profit.
+
+
+LLM-READY PROMPT
+-----------------------------------------------------------------
+
+You are a senior retail business analyst.
+
+Analyze the following verified business metrics and provide
+concise, evidence-based business recommendations.
+
+Total orders: 1,000
+Total revenue: ₹5,937,777.89
+Total profit: ₹2,407,536.59
+Overall profit margin: 40.55%
+Average order value: ₹5,937.78
+Best revenue category: Books
+
+Discount analysis:
+ discount_pct  orders      revenue       profit    margin
+            0     413 2570832.9500 1148684.7200 45.638378
+            5     129  789824.4140  338075.4240 43.811550
+           10     151  876039.2190  347735.4590 40.630861
+           15     151  936987.5805  327894.9505 35.518742
+           20     156  764093.7280  245146.0380 33.106795
+
+High-value transaction threshold:
+₹15,397.75
+
+High-value transactions:
+57
+
+Do not invent information.
+Identify important business trends, risks, and recommendations.
